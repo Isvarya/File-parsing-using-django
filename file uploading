@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<title>MY RESUME</title>
+<html bgcolor="green">
+<center><h2>RESUME</h2></center>
+<body>
+<center><h3><font color="black">PERSONAL PROFILE: </font></h3></center>
+<center>
+    <p><b>NAME:<input type="text" id="name" placeholder="{{ name }}" ></b></p>
+    <p><b>EDUCATION:<input type="text" id="edu" placeholder="{{ edu }}" ></b></p>
+    <p><b>COLLEGE:<input type="text" id="clg" placeholder="{{ clg }}" ></b></p>
+    <p><b>E-MAILID:<input type="text" id="mail" placeholder="{{ mail }}" ></b></p>
+    <p><b>STREET:<input type="text" id="street" placeholder="{{ street }}" ></b></p>
+    <p><b>CITY:<input type="text" id="city" placeholder="{{ city }}" ></b></p>
+    <p><b>STATE:<input type="text" id="state" placeholder="{{ state }}" ></b></p>
+    <p><b>COUNTRY:<input type="text" id="country" placeholder="{{ country }}" ></b></p>
+    <p><b>HOBBIES:<input type="text" id="hobbies" placeholder="{{ hobbies }}" ></b></p>
+    <p><b>PROGRAMMING SKILL:<input type="text" id="skill" placeholder="{{ skill }}" ></b></p>
+</center>
+</body>
+</html>
